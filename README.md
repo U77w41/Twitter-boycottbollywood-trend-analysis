@@ -23,7 +23,14 @@ pip install -r requirements.txt
 ### create templete.py to create requirwed folders inside the directory
 
 
-
-
 ## Steps:
-### 1. At first we scrap tweets from twitter using the snscrape library
+
+
+### 1. At first we scrap tweets from twitter using the snscrape library;
+
+### 2. Run the data collection.py to download the tweets in csv format;
+
+### 3. I uploaded the data in kaggle. The dataset I have collected can be found in this link:
+```bash
+
+```
