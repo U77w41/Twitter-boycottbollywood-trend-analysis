@@ -20,6 +20,10 @@ conda activate Twitter-boycottbollywood-trend-analysis
 pip install -r requirements.txt
 ```
 
+### create templete.py to create requirwed folders inside the directory
+
+
+
 
 ## Steps:
 ### 1. At first we scrap tweets from twitter using the snscrape library

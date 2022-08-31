@@ -4,3 +4,11 @@ numpy
 matplotlib
 seaborn
 sklearn
+cleantext
+regex
+string
+warnings
+pickle
+collections
+wordcloud
+nltk
