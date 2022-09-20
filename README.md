@@ -26,11 +26,10 @@ pip install -r requirements.txt
 ## Steps:
 
 
-### 1. At first we scrap tweets from twitter using the snscrape library;
+### 1. At first I scraped tweets from twitter using the snscrape library;  (To do so run the data collection.py to download the tweets in csv format.)
 
-### 2. Run the data collection.py to download the tweets in csv format;
-
-### 3. I uploaded the data in kaggle. The dataset I have collected can be found in this link:
+### 3. I have uploaded the data in kaggle. The dataset I have collected can be found in this link:
 ```bash
-
+https://www.kaggle.com/datasets/ujjwalchowdhury/boycottbollywood-tweets-dataset
 ```
+#### I'll update the dataset as soon as new boycottbollywood hashtag trends. Keep checking the kaggle link for updates.
