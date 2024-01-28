@@ -1,5 +1,5 @@
 # Twitter-boycottbollywood-trend-analysis
-
+![Boycott Bollywood](https://github.com/U77w41/Twitter-boycottbollywood-trend-analysis/blob/main/boycott-bollywood-01.jpeg)
 # Initial Steps:
 ### create env
 ```bash
